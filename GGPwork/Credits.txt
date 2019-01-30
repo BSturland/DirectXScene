@@ -1,0 +1,7 @@
+Created for Games graphics Programming Module for Computer Games Technology BCU
+
+Aim was to create a game scene using direct X and C++
+
+Created by Ben Sturland
+
+Some code and models based on tutorials from Jan Krasniewicz

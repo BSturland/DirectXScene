@@ -1,0 +1,4 @@
+﻿  Main.cpp
+d:\3rdyr\ggpwork (2)\ggpwork\ggpwork\gamesgraphicsprogramming\main.cpp(359): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+d:\3rdyr\ggpwork (2)\ggpwork\ggpwork\gamesgraphicsprogramming\main.cpp(1596): warning C4007: 'WinMain': must be '__stdcall'
+  GamesGraphicsProgramming.vcxproj -> D:\3rdyr\GGPwork (2)\GGPwork\GGPwork\Debug\GamesGraphicsProgramming.exe
